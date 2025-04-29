@@ -1,7 +1,8 @@
 # 💫 About Me:
-- 🌱 I’m currently learning **C#**
+- 🌱 I'm a Software Developer based in Toronto
 - 👨‍💻 All of my projects are available at [https://inaam.ca](https://inaam.ca)
-- 💬 Ask me about **react, vue, python, js, ts, anything** - 📫 How to reach me **inaam.mohammed29@gmail.com**
+- 💬 Ask me about **react, vue, python, js, ts, anything**
+- 📫 How to reach me **inaam.mohammed29@gmail.com**
 - ⚡ Fun fact **I love playing football and chess!**
 
 ## 🌐 Socials:
