@@ -1,6 +1,8 @@
 # 💫 About Me:
-My name is Inaam and I am a passionate Software Developer in Toronto. 
-
+- 🌱 I’m currently learning **C#**
+- 👨‍💻 All of my projects are available at [https://inaam.ca](https://inaam.ca)
+- 💬 Ask me about **react, vue, python, js, ts, anything** - 📫 How to reach me **inaam.mohammed29@gmail.com**
+- ⚡ Fun fact **I love playing football and chess!**
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/inaam-azeezur-rahman-b3a8b819b/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:inaam.mohammed29@gmail.com) 
